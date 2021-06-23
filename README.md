@@ -1,3 +1,4 @@
 # Algorithms
 DFS, BFS, Dijkstra, A* Path finding algorithms visualizer
-![Alt text](preview.gif)
+
+<img src="https://raw.githubusercontent.com/mmax00/Algorithms/master/preview.gif" width="600" height="600" />
